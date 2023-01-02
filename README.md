@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arya Kumari
-- 👀 I’m interested in programming, math and books
-- 🌱 I’m currently learning python Tkinter
+- 👀 I’m a front-end developer.
+- 🌱 I’m currently learning back-end.
 - <!--💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
