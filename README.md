@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arya Kumari
-- 👀 I’m a front-end developer.
-- 🌱 I’m currently learning back-end.
+- 👀 I’m a front-end developer
 - <!--💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
