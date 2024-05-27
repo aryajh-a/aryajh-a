@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arya Kumari
-- 👀 I’m a front-end developer
+- 👀 I’m a Python developer
 - <!--💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
